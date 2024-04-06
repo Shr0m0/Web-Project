@@ -1,0 +1,2 @@
+### Get post
+GET http://localhost:3001
